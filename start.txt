@@ -1,2 +1,3 @@
 Test GIT quick start demo
 From remote!
+new line 1 by dz
